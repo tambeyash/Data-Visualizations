@@ -32,3 +32,5 @@ Users can filter the results tournament wise.
 This dashboard uses this [dataet](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data) obtained from Kaggle.
 It provides a representation of orders across different categories of clothing, sizes as well as the top states and weekly orders. This dashboard was inspired by
 [this video](https://youtu.be/N12eyBBvGb8).
+
+[Visualization link](https://public.tableau.com/views/Amazonecommerce/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)

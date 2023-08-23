@@ -2,7 +2,7 @@
 
 ## 1. Nobel Laureates
 
-This interactive dashboard in PowerBI that allows users to explore the individual 
+This interactive dashboard allows users to explore the individual 
 Laureates in a visually appealing and intuitive way. The dashboard provides insights on the number of Nobel laureates per category
 and country, the average age and distribution of gender among winners.
 
